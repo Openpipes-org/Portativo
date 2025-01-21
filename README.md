@@ -4,4 +4,4 @@
 
 ⚠️ Under construction
 
-Download the latest CAD files in the <a href="https://github.com/Openpipes-org/Portativo/releases/latest">release</a> section.
+Download the latest CAD files in the <a href="https://github.com/Openpipes-org/Portativo/releases/latest">releases</a> section.
